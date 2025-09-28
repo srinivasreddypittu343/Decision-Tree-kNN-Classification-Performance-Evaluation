@@ -15,7 +15,7 @@ Each notebook is structured with **step-by-step explanations, visualizations, an
 
 # 📘 Notebooks Overview  
 
-## 1. `DecisionTree_sklearn.ipynb`  
+## 1. `Decision Tree (sklearn)`  
 **Goal:** Explore Decision Trees for classification on the Iris dataset.  
 
 ### Steps  
@@ -32,7 +32,7 @@ Each notebook is structured with **step-by-step explanations, visualizations, an
 
 ---
 
-## 2. `kNN_Classification_sklearn.ipynb`  
+## 2. `kNN_Classification (sklearn)`  
 **Goal:** Analyze the impact of **k** in k-Nearest Neighbors classification.  
 
 ### Steps  
@@ -48,7 +48,7 @@ Each notebook is structured with **step-by-step explanations, visualizations, an
 
 ---
 
-## 3. `Performance_Evaluation.ipynb`  
+## 3. `Performance Evaluation`  
 **Goal:** Evaluate classifier performance using multiple metrics.  
 
 ### Steps  
